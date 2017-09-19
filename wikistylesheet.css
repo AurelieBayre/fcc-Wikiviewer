@@ -1,0 +1,81 @@
+body {
+	background-color: #004466;
+font-family: 'Quattrocento Sans', sans-serif;
+}
+.searchResult {
+	border-left: 7px solid #ff884d;
+	border-radius: 5px;
+	background-color: #002233;
+	margin-bottom: 10px;
+	padding: 5px;
+}
+.resultTitle {
+	padding-left: 15px;
+}
+
+input {
+	background-color: #002233;
+	border: solid 1px #dcdcdc;
+	border-radius: 4px;
+	padding: 7px;
+	color: #b3e6ff;
+	font-size: x-large;
+
+}
+h1 {
+	color: #ff884d;
+}
+h2 {
+	color: #ff884d;
+}
+
+p {
+	padding-left: 40px;
+	padding-right: 30px;
+	font-size: x-large;
+	color: #b3e6ff;
+}
+
+.mainTitle {
+	margin-top: 50px;
+	margin-bottom: 20px;
+	padding-top: 50px;
+	padding-bottom: 30px;
+	padding-left: 5%;
+	font-family: 'Crimson Text', serif;
+	font-size: 60px;
+}
+
+.btn {
+	font-size: larger;
+	background-color: #002233;
+	color: #b3e6ff;
+	margin-left: 10px;
+}
+
+.contentBox {
+	margin-top: 20px;
+}
+
+.signature {
+	position: absolute;
+	top: 0;
+	right: 0;
+	background-color:#002233;
+	color: #ff884d;
+	padding:4px;
+	font-family: 'Quattrocento Sans', sans-serif;
+	font-size:14px;
+	display:inline-block;
+	border-radius:12px;"
+}
+
+.searchBar {
+	display:inline-block;
+	margin-bottom: 10px;
+
+}
+
+.random {
+	margin-left: 10px;
+}
